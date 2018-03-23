@@ -1,0 +1,24 @@
+{
+  "name": "MasterMoviesMPP Interface",
+  "version": "0.1.0-alpha",
+  "description": "A HTML interface to the MasterMoviesMPP project",
+  "license": "GPL-3.0",
+  "readmeFilename": "README.md",
+  "author": {
+    "name": "Marucs Cemes",
+    "email": "20288819+MarcusCemes@users.noreply.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcusCemes/MasterMovieSMPP-inteface.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarcusCemes/MasterMovieSMPP-intefacee/issues"
+  },
+  "tags": [
+    "PYthon",
+    "Interface",
+    "HTML",
+    "Video PRocessing"
+  ]
+}
