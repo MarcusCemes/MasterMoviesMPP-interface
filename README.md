@@ -8,6 +8,11 @@
 
 A HTML based GUI interface to the [MasterMovies Media Processing Platform](https://www.github.com/MarcusCemes/MasterMoviesMPP)
 
+![Image of the interface](.images/1.jpg)
+![Image of the interface](.images/2.jpg)
+![Image of the interface](.images/3.jpg)
+![Image of the interface](.images/4.jpg)
+
 ## Getting Started
 
 These instructions will walk you through the pairing process to the [MasterMoviesMPP](https://www.github.com/MarcusCemes/MasterMoviesMPP) network.
