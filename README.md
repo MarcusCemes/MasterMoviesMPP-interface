@@ -1,21 +1,22 @@
+*This project is **deprecated**. If you feel like building on top of it, it's still fully functional, however you would be better off starting again with cleaner code.*
+
 # MasterMovies Media Processing Platform Interface
 
-[![Build](https://img.shields.io/travis/MarcusCemes/MasterMoviesMPP-interface.svg?style=flat-square)](https://travis-ci.org/MarcusCemes/MasterMoviesMPP)
-[![Downloads](https://img.shields.io/github/downloads/MarcusCemes/MasterMoviesMPP-interface/total.svg?style=flat-square)]()
-[![GitHub release](https://img.shields.io/github/release/MarcusCemes/MasterMoviesMPP-interface.svg?style=flat-square)](releases)
-[![GitHub code size](https://img.shields.io/github/languages/code-size/MarcusCemes/MasterMoviesMPP-interface.svg?style=flat-square)]()
+![Stability](https://img.shields.io/badge/stability-deprecated-red.svg?style=flat-square)
+![GitHub code size](https://img.shields.io/github/languages/code-size/MarcusCemes/MasterMoviesMPP-interface.svg?style=flat-square)
 [![License](https://img.shields.io/github/license/MarcusCemes/MasterMoviesMPP-interface.svg?style=flat-square)](LICENSE.md)
 
 A HTML based GUI interface to the [MasterMovies Media Processing Platform](https://www.github.com/MarcusCemes/MasterMoviesMPP)
 
-![Image of the interface](.images/1.jpg)
-![Image of the interface](.images/2.jpg)
-![Image of the interface](.images/3.jpg)
-![Image of the interface](.images/4.jpg)
+
+| | |
+|:-------------------------:|:-------------------------:|
+|<img alt="The login page" width="1720" src=".images/1.jpg">The login page |  <img alt="The policy editor" width="1720" src=".images/2.jpg">The policy editor
+| <img alt="Connected machines (nodes)" width="1720" src=".images/3.jpg">Connected machines (nodes) | <img alt="Node management" width="1720" src=".images/4.jpg"> Node management |
 
 ## Getting Started
 
-These instructions will walk you through the pairing process to the [MasterMoviesMPP](https://www.github.com/MarcusCemes/MasterMoviesMPP) network.
+These instructions will walk you through the pairing process to the [MasterMoviesMPP](https://www.github.com/MarcusCemes/MasterMoviesMPP) system.
 
 ### Prerequisites
 
